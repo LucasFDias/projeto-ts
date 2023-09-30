@@ -1,7 +1,12 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta aplicação tem como objetivo, demonstrar em typescript uma rede social de posts.
 
+Nela, você consegue testar funcionabilidades como:
+- Criar um novo comentário no post.
+- Deletar o comentário.
+- Curtir o comentário.
+  
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
