@@ -16,8 +16,8 @@ const posts: PostType[] = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      { type: 'link', content: '👉 jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifólio. Esse projeto simula um pouco do twitter 🚀'},
+      { type: 'link', content: '👉 github.com/LucasFDias' },
     ],
     publishedAt: new Date('2023-09-15 20:00:00')
   },
@@ -29,9 +29,9 @@ const posts: PostType[] = [
       role: 'Developer'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'},
-      { type: 'link', content: '👉 jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Fala pessoal! 👋' },
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifólio. Esse projeto simula um pouco do twitter 🚀'},
+      { type: 'link', content: '👉 github.com/LucasFDias' },
     ],
     publishedAt: new Date('2023-09-20 20:00:00')
   },
